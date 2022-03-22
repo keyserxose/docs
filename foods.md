@@ -2,7 +2,8 @@
 
 * [Breakfast](#Breakfast)
   * [Oatmeal](#Oatmeal)
-* [Meal]
+  * [Pancakes](#Pancakes)
+* [Meal](#Meal)
 * [Dessert](#Dessert)
 * [Spices](#Spices)
 
