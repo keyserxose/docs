@@ -12,6 +12,7 @@
   * [Veggie Curry Rice](#VeggieCurryRice)
 * [Dessert](#Dessert)
   * [Brownies](#Brownies)
+  * [Banana Blueberry Muffins](#BananaBlueberryMuffins)
 * [Spices](#Spices)
 
 # Breakfast
@@ -196,7 +197,7 @@ Chicken: Cut the chicken in cubes and rub the spice mix in
 
 Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
 
-### Veggie Curry Rice
+### VeggieCurryRice
 
 	* Basmati Rice
 	* Peas
@@ -252,7 +253,7 @@ Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz
 Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
 
 
-### Banana and blueberry muffins
+### BananaBlueberryMuffins
 	* 2 mashed bananas (1cup)
 	* 1 Cup yogurt (queso fresco batido)
 	* 2 eggs
