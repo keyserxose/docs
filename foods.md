@@ -10,10 +10,12 @@
   * [Risotto](#Risotto)
   * [Chicken Curry](#ChickenCurry)
   * [Veggie Curry Rice](#VeggieCurryRice)
+* [Spices](#Spices)
 * [Dessert](#Dessert)
   * [Brownies](#Brownies)
   * [Banana Blueberry Muffins](#BananaBlueberryMuffins)
-* [Spices](#Spices)
+  * [Chocolate Cake](#ChocolateCake)
+
 
 # Breakfast
 
@@ -283,9 +285,9 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170ย
 Pre-heat the oven to 175ยบC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
 
-### Chocolate Cake
+### ChocolateCake
 
-Cake
+#### Cake
 
     * 113g butter
     * 28g chocolate polvo
@@ -300,7 +302,7 @@ Cake
     * 56g melted chocolate
 
 
-Frosting
+#### Frosting
 
 	* 200!?g glass sugar
 	* 2 tablespoons chocolate powder
@@ -309,7 +311,7 @@ Frosting
 	* 85g melted chocolate
 	* 2 tablespoons buttermilk
 
-Buttermilk
+#### Buttermilk
 
     * 1 cup of milk + 1 teaspoon lemon juice
 
