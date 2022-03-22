@@ -285,14 +285,32 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 
 ### Chocolate Cake
 
-* 113g butter
-* 28g chocolate polvo
-* 136g flour
-* 1 small teaspoon baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
-* 125g sugar
-* 2 eggs
-* 1 teaspoon vanilla
-* 120ml buttermilk
-* 56g melted chocolate
+Cake
+
+    * 113g butter
+    * 28g chocolate polvo
+    * 136g flour
+    * 1 small teaspoon baking powder
+    * 1/2 teaspoon baking soda
+    * 1/2 teaspoon salt
+    * 125g sugar
+    * 2 eggs
+    * 1 teaspoon vanilla
+    * 120ml buttermilk
+    * 56g melted chocolate
+
+
+Frosting
+
+	* 200!?g glass sugar
+	* 2 tablespoons chocolate powder
+	* 1/2 teaspoon salt
+	* 160g?! butter
+	* 85g melted chocolate
+	* 2 tablespoons buttermilk
+
+Buttermilk
+
+    * 1 cup of milk + 1 teaspoon lemon juice
+or
+    * 3/4 cups yogurt + 1/4 cup milk
