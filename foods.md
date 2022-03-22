@@ -1,11 +1,15 @@
 # INDEX
 
-* Breakfast
-  * Oatmeal
+* [Breakfast](#Breakfast)
+  * [Oatmeal](#Oatmeal)
 * Meal
 * Dessert
 * Spice Mix
 
+- [Heading](#heading)
+- [Another heading](#another-heading)
+- [Chapter](#chapter)
+  - [Subchapter <h3 />](#subchapter-h3-)
 
 # SPICE MIX
 
