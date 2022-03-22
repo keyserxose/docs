@@ -15,12 +15,13 @@
 	* Cayena
 	* Pimienta
 	* Ajo
-	* Jengibre
+  	* Jengibre
 
+# Breakfast
 
-# OATMEAL
+## Oatmeal
 
-#### Banana and PB
+### Banana and PB
 	* Mashed banana
 	* Oats
 	* Peanut Butter
@@ -30,7 +31,7 @@
 
 Mash the banana, add the rest of ingredients, pour hot water and mix it
 
-# Apple & Cinnamon
+### Apple & Cinnamon
 	* Oats
 	* Apple
 	* Brown Sugar
@@ -44,9 +45,9 @@ For the oats, just add hot water or milk
 Dice the apple and heat it in a pan with the butter, once the apple is soft and golden add the cinnamon, sugar, nuts and raisings, fy it for a bit more time, once it looks done, mix it wit the oats
 
 
-# DESSERTS
+# Dessert
 
-# Brownies
+### Brownies
 	* 150-200g butter
 	* 180-200g chocolate
 	* 2 eggs
@@ -58,12 +59,12 @@ Dice the apple and heat it in a pan with the butter, once the apple is soft and 
 	* 20g cocoa powder
 	* vanilla
 
-## Prep
+### Prep
 
 Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
 
 
-# Banana and blueberry muffins
+### Banana and blueberry muffins
 	* 2 mashed bananas (1cup)
 	* 1 Cup yogurt (queso fresco batido)
 	* 2 eggs
@@ -75,11 +76,11 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170�
 	* bit of salt
 	* blueberries
 
-## Prep
+### Prep
 
 Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
-# Pancakes
+### Pancakes
 
 	* 1 cup of flour
 	* Pinch of salt
@@ -90,16 +91,16 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 	* 1tbsp melted butter
 	* blueberries
 
-## Prep
+### Prep
 
 Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add the butter, add some butter to a pan and start making pancakes!
 
 
-# FOOD
+# Meal
 
-# Carnitas
+### Carnitas
 
-## Ingredients
+#### Ingredients
 
 	* Lomo de cerdo
 	* 1 yellow onion
@@ -118,7 +119,7 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 	* Fresh cilantro
 	* Tortillas
 
-## Adobo
+#### Adobo
 	
 	* Oregano(1/2tbsp)
 	* Paprika(1/2tsp)
@@ -138,9 +139,7 @@ Red onion: cut the onion, place into a bowl and add soke in boiling water for 20
 Mix the spices into the pork, fry with some pork lard in the pressure cooker for 3 minutes, add the onion and garlic and fry for a few more minutes, add the citrus juice and the cinamon stick and a glass of water, cook for 45 minutes on the highest seeting, once done, filter out the extra liquid, and let the fat separate, use that fat + extra if needed to fry the carnitas before eating them
 
 
-
-
-# Chili
+### Chili
 
 	* 500g meat
 	* 2 Peppers
