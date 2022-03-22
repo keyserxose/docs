@@ -109,9 +109,9 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 	* Cumin(1/2tbsp)
 	* Salt(1/2tsp)
 	* Pepper
+##
 
-
-
+Prep
 
 	Meat & Yellow onion: Cut the pork in cubes, dice the onion and the garlic
 	Citrus: Squeeze the limes and oranges
