@@ -204,12 +204,14 @@ Sauté the onion, add the rest of ingredients in a logical order, add the rice, 
 	* Capsicums
 
 ## Prep
-	Spice mix: Mix Garam masala with cumin, paprika, salt, pepper
-	Vegetables: Cut the onion, garlic and capsicums, peal and grate the ginger
-	Chicken: Cut the chicken in cubes and rub the spice mix in
+	
+Spice mix: Mix Garam masala with cumin, paprika, salt, pepper
+Vegetables: Cut the onion, garlic and capsicums, peal and grate the ginger
+Chicken: Cut the chicken in cubes and rub the spice mix in
 
 ## Cook
-	Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
+
+Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
 
 # Veggie Curry Rice
 
