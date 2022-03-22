@@ -50,6 +50,8 @@ Dice the apple and heat it in a pan with the butter, once the apple is soft and 
 	* 20g cocoa powder
 	* vanilla
 
+## Prep
+
 Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
 
 
@@ -65,6 +67,8 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170�
 	* bit of salt
 	* blueberries
 
+## Prep
+
 Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
 # Pancakes
@@ -77,6 +81,8 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 	* 3/4 cup milk
 	* 1tbsp melted butter
 	* blueberries
+
+## Prep
 
 Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add the butter, add some butter to a pan and start making pancakes!
 
@@ -143,6 +149,8 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* Sugar
 	* Coffee
 
+## Prep
+
 Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the vegetables, once done add the stock, tomatoes and spices, cover with a lid and cook for 3 hours, at the end add the choccolate, sugar and coffee
 
 
@@ -168,6 +176,8 @@ Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the ve
 	* Black Pepper
 	* Nutmeg
 
+## Prep
+
 Eggplants: Peel and cut the eggplants, salt them and put them into a bowl for 30 minutes, then wash them and squeeze the water out, bake them for 20 min at 170º
 
 Meat sauce: Saute the onion, add the meat, then garlic, spices and tomato sauce, let it simmer to remove the water
@@ -188,6 +198,7 @@ Cover with aluminum foil and bake for 1h
 	* Mushrooms
 	* Any other stuff you want to put
 
+## Prep
 
 Sauté the onion, add the rest of ingredients in a logical order, add the rice, coock it for a couple of minutes, then add the broth(hot) one ladle at a time, once done it's done
 
