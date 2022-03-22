@@ -3,19 +3,8 @@
 * [Breakfast](#Breakfast)
   * [Oatmeal](#Oatmeal)
 * [Meal]
-* [Dessert]
-* [Spice Mix]
-
-# SPICE MIX
-
-# Fajitas
-	* Azucar
-	* Sal
-	* Cebolla
-	* Cayena
-	* Pimienta
-	* Ajo
-  	* Jengibre
+* [Dessert](#Dessert)
+* [Spice Mix](#Spice Mix)
 
 # Breakfast
 
@@ -44,41 +33,6 @@ For the oats, just add hot water or milk
 
 Dice the apple and heat it in a pan with the butter, once the apple is soft and golden add the cinnamon, sugar, nuts and raisings, fy it for a bit more time, once it looks done, mix it wit the oats
 
-
-# Dessert
-
-### Brownies
-	* 150-200g butter
-	* 180-200g chocolate
-	* 2 eggs
-	* 150-225g sugar
-	* 100-120g flour
-	* 50g nuts
-	* 20x20 modl
-	* 170º 20' + 20' aluminum fold
-	* 20g cocoa powder
-	* vanilla
-
-### Prep
-
-Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
-
-
-### Banana and blueberry muffins
-	* 2 mashed bananas (1cup)
-	* 1 Cup yogurt (queso fresco batido)
-	* 2 eggs
-	* 1/2 cup sugar
-	* 4 tbsp melted butter
-	* a bit of vanilla
-	* 1.5 cups of flour
-	* 1 tbsp baking soda
-	* bit of salt
-	* blueberries
-
-### Prep
-
-Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
 ### Pancakes
 
@@ -270,3 +224,50 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
 ## Cook
 Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
+
+
+# Dessert
+
+### Brownies
+	* 150-200g butter
+	* 180-200g chocolate
+	* 2 eggs
+	* 150-225g sugar
+	* 100-120g flour
+	* 50g nuts
+	* 20x20 modl
+	* 170º 20' + 20' aluminum fold
+	* 20g cocoa powder
+	* vanilla
+
+### Prep
+
+Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
+
+
+### Banana and blueberry muffins
+	* 2 mashed bananas (1cup)
+	* 1 Cup yogurt (queso fresco batido)
+	* 2 eggs
+	* 1/2 cup sugar
+	* 4 tbsp melted butter
+	* a bit of vanilla
+	* 1.5 cups of flour
+	* 1 tbsp baking soda
+	* bit of salt
+	* blueberries
+
+### Prep
+
+Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
+
+# Spice Mix
+
+### Fajitas
+	* Azucar
+	* Sal
+	* Cebolla
+	* Cayena
+	* Pimienta
+	* Ajo
+  	* Jengibre
