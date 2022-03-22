@@ -2,14 +2,9 @@
 
 * [Breakfast](#Breakfast)
   * [Oatmeal](#Oatmeal)
-* Meal
-* Dessert
-* Spice Mix
-
-- [Heading](#heading)
-- [Another heading](#another-heading)
-- [Chapter](#chapter)
-  - [Subchapter <h3 />](#subchapter-h3-)
+* [Meal]
+* [Dessert]
+* [Spice Mix]
 
 # SPICE MIX
 
@@ -25,7 +20,7 @@
 
 # OATMEAL
 
-# Banana and PB
+### Banana and PB
 	* Mashed banana
 	* Oats
 	* Peanut Butter
