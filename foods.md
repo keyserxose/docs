@@ -171,7 +171,7 @@ Cover with aluminum foil and bake for 1h
 Sauté the onion, add the rest of ingredients in a logical order, add the rice, coock it for a couple of minutes, then add the broth(hot) one ladle at a time, once done it's done
 
 
-### Chicken Curry
+### ChickenCurry
 
 	* Chicken
 	* Fresh ginger
