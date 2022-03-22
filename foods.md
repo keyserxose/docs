@@ -4,7 +4,7 @@
   * [Oatmeal](#Oatmeal)
 * [Meal]
 * [Dessert](#Dessert)
-* [Spice Mix](#Spice Mix)
+* [Spices](#Spices)
 
 # Breakfast
 
@@ -261,7 +261,7 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170ย
 
 Pre-heat the oven to 175ยบC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
-# Spice Mix
+# Spices
 
 ### Fajitas
 	* Azucar
