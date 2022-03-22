@@ -4,6 +4,12 @@
   * [Oatmeal](#Oatmeal)
   * [Pancakes](#Pancakes)
 * [Meal](#Meal)
+  * [Carnitas](#Carnitas)
+  * [Chili](#Chili)
+  * [Moussaka](#Moussaka)
+  * [Risotto](#Risotto)
+  * [Chicken Curry](#ChickenCurry)
+  * [Veggie Curry Rice](#VeggieCurryRice)
 * [Dessert](#Dessert)
 * [Spices](#Spices)
 
@@ -30,10 +36,9 @@ Mash the banana, add the rest of ingredients, pour hot water and mix it
 	* Butter or any kind of low flavour vegetable oil
 	* Wallnuts
 
-For the oats, just add hot water or milk
-
 Dice the apple and heat it in a pan with the butter, once the apple is soft and golden add the cinnamon, sugar, nuts and raisings, fy it for a bit more time, once it looks done, mix it wit the oats
 
+For the oats, just add hot water or milk
 
 ### Pancakes
 
@@ -116,9 +121,9 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the vegetables, once done add the stock, tomatoes and spices, cover with a lid and cook for 3 hours, at the end add the choccolate, sugar and coffee
 
 
-# Moussaka
+### Moussaka
 
-## Ingredients
+### Ingredients
 
 	* 2 Eggplants
 	* 500g minced meat
@@ -131,14 +136,14 @@ Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the ve
 	* Flour
 	* 2 Eggs
 
-## Spices
+### Spices
 
 	* Oregano
 	* Cinnamon
 	* Black Pepper
 	* Nutmeg
 
-## Prep
+### Prep
 
 Eggplants: Peel and cut the eggplants, salt them and put them into a bowl for 30 minutes, then wash them and squeeze the water out, bake them for 20 min at 170º
 
@@ -150,7 +155,7 @@ Assemble: Layer of eggplant, layer of meat, layer of eggplant, layer of bechamel
 
 Cover with aluminum foil and bake for 1h
 
-# Risotto
+### Risotto
 
 	* Arborio Rice
 	* White Wine
@@ -160,12 +165,12 @@ Cover with aluminum foil and bake for 1h
 	* Mushrooms
 	* Any other stuff you want to put
 
-## Prep
+### Prep
 
 Sauté the onion, add the rest of ingredients in a logical order, add the rice, coock it for a couple of minutes, then add the broth(hot) one ladle at a time, once done it's done
 
 
-# Chicken Curry
+### Chicken Curry
 
 	* Chicken
 	* Fresh ginger
@@ -180,17 +185,17 @@ Sauté the onion, add the rest of ingredients in a logical order, add the rice, 
 	* Onion
 	* Capsicums
 
-## Prep
+### Prep
 	
 Spice mix: Mix Garam masala with cumin, paprika, salt, pepper
 Vegetables: Cut the onion, garlic and capsicums, peal and grate the ginger
 Chicken: Cut the chicken in cubes and rub the spice mix in
 
-## Cook
+### Cook
 
 Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
 
-# Veggie Curry Rice
+### Veggie Curry Rice
 
 	* Basmati Rice
 	* Peas
@@ -204,7 +209,7 @@ Seal the chicken on a pan until browned, add it to the pressure cooker with a bi
 Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
 
-# Sopa calabacín
+### Sopa calabacín
 
 	* Cebolla
 	* Puerro
@@ -213,7 +218,7 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 	* Zanahoria
 
 
-# Sopa de marisco
+### Sopa de marisco
 
 	* Rape entero
 	* Almejas
@@ -223,7 +228,7 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 	* Aceite
 	* Perejil
 
-## Cook
+### Cook
 Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
 
 
