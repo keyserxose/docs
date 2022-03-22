@@ -233,10 +233,22 @@ Cook veggies and the jamÃ³n, cook the rice, fry an egg and mix all together
 ### Cook
 Cocer el rape, sacarlo y deshacerlo, aÃ±adir el resto de ingredientes y el arroz al final
 
+# Spices
+
+### Fajitas
+	* Azucar
+	* Sal
+	* Cebolla
+	* Cayena
+	* Pimienta
+	* Ajo
+  	* Jengibre
+
 
 # Dessert
 
 ### Brownies
+
 	* 150-200g butter
 	* 180-200g chocolate
 	* 2 eggs
@@ -254,6 +266,7 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170Â
 
 
 ### BananaBlueberryMuffins
+
 	* 2 mashed bananas (1cup)
 	* 1 Cup yogurt (queso fresco batido)
 	* 2 eggs
@@ -269,13 +282,17 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170Â
 
 Pre-heat the oven to 175ÂºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
-# Spices
 
-### Fajitas
-	* Azucar
-	* Sal
-	* Cebolla
-	* Cayena
-	* Pimienta
-	* Ajo
-  	* Jengibre
+### Chocolate Cake
+
+* 113g butter
+* 28g chocolate polvo
+* 136g flour
+* 1 small teaspoon baking powder
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon salt
+* 125g sugar
+* 2 eggs
+* 1 teaspoon vanilla
+* 120ml buttermilk
+* 56g melted chocolate
