@@ -1,6 +1,6 @@
 # SPICE MIX
 
-# Especias Fajitas
+# Fajitas
 	* Azucar
 	* Sal
 	* Cebolla
@@ -148,21 +148,25 @@ Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the ve
 
 # Moussaka
 
+## Ingredients
+
 	* 2 Eggplants
 	* 500g minced meat
 	* 1 Onion
 	* Garlic
 	* Tomato sauce
-	* Spices
-		* Oregano
-		* Cinnamon
-		* Black Pepper
-		* Nutmeg
 	* Milk
 	* Butter
 	* Granna Padano
 	* Flour
 	* 2 Eggs
+
+## Spices
+
+	* Oregano
+	* Cinnamon
+	* Black Pepper
+	* Nutmeg
 
 Eggplants: Peel and cut the eggplants, salt them and put them into a bowl for 30 minutes, then wash them and squeeze the water out, bake them for 20 min at 170º
 
