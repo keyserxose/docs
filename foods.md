@@ -312,5 +312,21 @@ Frosting
 Buttermilk
 
     * 1 cup of milk + 1 teaspoon lemon juice
+
 or
-    * 3/4 cups yogurt + 1/4 cup milk
+    
+	* 3/4 cups yogurt + 1/4 cup milk
+
+
+Temperature
+350F = 176 C
+
+Center a rack in the oven, and preheat it to 350. Butter the interiors of two 9-inch round cake pans, dust with a little cocoa powder and tap out the excess. Sift together the flour, cocoa, baking powder, baking soda and salt.
+
+Working with an electric mixer (use the paddle, if you have one), beat the butter and sugar together on medium speed for 3 minutes, until light and fluffy. Add the eggs one by one, and beat for a minute after each goes in; beat in the vanilla. Reduce the speed to low, and add the dry ingredients in 3 additions and the buttermilk in 2 (start and finish with the dry, and don’t worry if the buttermilk makes the batter look slightly curdled). Mix in the melted chocolate. Divide the batter evenly between the pans.
+
+Bake for 24 to 28 minutes, until a tester poked into the center of the cakes comes out clean. Transfer to racks, let rest 5 minutes and then run a blunt knife around the edges of the pans. Unmold the cakes onto the racks, and cool to room temperature.
+
+Make the frosting: Sift together the confectioners’ sugar and cocoa powder. Using an electric mixer (with the paddle, if available), beat the sugar, cocoa, salt and butter on high speed until fluffy. On low speed, add the chocolate. When it’s almost incorporated, beat in the buttermilk. It’s best to use the frosting immediately.
+
+If necessary, just before you’re ready to frost the cakes, slice a sliver off the top of each layer to create a flat surface. To assemble, place one cake layer, top up, on a serving platter, and cover with frosting. Top with the second layer, top down, jiggling it into the frosting to hold it in place. Frost the top and sides of the cake — go sleek or swirly. If you’re using decorations, scatter them over the cake. Chill for at least 1 hour (or for up to 1 day); bring to room temperature before serving.
