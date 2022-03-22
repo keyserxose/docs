@@ -102,14 +102,22 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 	* Fresh cilantro
 	* Tortillas
 
-## Prep
+## Adobo
+	
+	* Oregano(1/2tbsp)
+	* Paprika(1/2tsp)
+	* Cumin(1/2tbsp)
+	* Salt(1/2tsp)
+	* Pepper
 
-	Spice mix: Oregano(1/2tbsp) + paprika(1/2tsp) + cumin(1/2tbsp) + salt(1/2tsp) + pepper
+
+
+
 	Meat & Yellow onion: Cut the pork in cubes, dice the onion and the garlic
 	Citrus: Squeeze the limes and oranges
 	Red onion: cut the onion, place into a bowl and add soke in boiling water for 20 secs to remove som bitternes mix, cut the tomato
 
-## Cook
+Cook
 
 	Mix the spices into the pork, fry with some pork lard in the pressure cooker for 3 minutes, add the onion and garlic and fry for a few more minutes, add the citrus juice and the cinamon stick and a glass of water, cook for 45 minutes on the highest seeting, once done, filter out the extra liquid, and let the fat separate, use that fat + extra if needed to fry the carnitas before eating them
 
