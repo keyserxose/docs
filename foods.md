@@ -5,7 +5,7 @@
 	- [Oatmeal](#oatmeal)
 		- [Banana and PB](#banana-and-pb)
 		- [Apple \& Cinnamon](#apple--cinnamon)
-		- [Pancakes](#pancakes)
+	- [Pancakes](#pancakes)
 - [Meal](#meal)
 		- [Carnitas](#carnitas)
 			- [Ingredients](#ingredients)
@@ -66,7 +66,7 @@ Dice the apple and heat it in a pan with the butter, once the apple is soft and 
 
 For the oats, just add hot water or milk
 
-### Pancakes
+## Pancakes
 
 	* 1 cup of flour
 	* Pinch of salt
