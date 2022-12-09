@@ -10,6 +10,7 @@
   * [Risotto](#Risotto)
   * [Chicken Curry](#ChickenCurry)
   * [Veggie Curry Rice](#VeggieCurryRice)
+  * [Fabada](#fabada)
 * [Spices](#Spices)
 * [Dessert](#Dessert)
   * [Brownies](#Brownies)
@@ -105,20 +106,24 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 
 ### Chili
 
-	* 500g meat
+	* 1000g meat
 	* 2 Peppers
 	* 1 Onion
 	* 1 Garlic
 	* Diced tomatoes
 	* Beans
-	* Stock
+	* Chicken Stock / Meat Stock
 	* Paprika
 	* Cayenne
 	* Black Pepper
 	* Cumin
 	* Chocolate
-	* Sugar
+	* Brown Sugar
 	* Coffee
+	* Vegemite
+	* Anchovies
+	* Soy Sauce
+	* Oregano
 
 ## Prep
 
@@ -221,6 +226,15 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 	* Aceite
 	* Zanahoria
 
+### Fabada
+
+    * Compango
+    * Cebolla
+    * Ajo
+    * Patata
+    * Habas
+
+Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha agua, cocer en olla a presión al máximo durante 15 min
 
 ### Sopa de marisco
 
