@@ -12,15 +12,15 @@
 	- [Moussaka](#moussaka)
 	- [Risotto](#risotto)
 	- [Chicken Curry](#chicken-curry)
-	- [VeggieCurryRice](#veggiecurryrice)
+	- [Veggie Curry Rice](#veggie-curry-rice)
 	- [Fajitas](#fajitas)
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
 	- [Sopa de marisco](#sopa-de-marisco)
 - [Dessert](#dessert)
 	- [Brownies](#brownies)
-	- [BananaBlueberryMuffins](#bananablueberrymuffins)
-	- [ChocolateCake](#chocolatecake)
+	- [Banana Blueberry Muffins](#banana-blueberry-muffins)
+	- [Chocolate Cake](#chocolate-cake)
 
 
 # Breakfast
@@ -186,7 +186,7 @@ Chicken: Cut the chicken in cubes and rub the spice mix in
 
 Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
 
-## VeggieCurryRice
+## Veggie Curry Rice
 
 	* Basmati Rice
 	* Peas
@@ -262,7 +262,7 @@ Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz
 Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
 
 
-## BananaBlueberryMuffins
+## Banana Blueberry Muffins
 
 	* 2 mashed bananas (1cup)
 	* 1 Cup yogurt (queso fresco batido)
@@ -278,7 +278,7 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170�
 Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
 
-## ChocolateCake
+## Chocolate Cake
 
 Cake
 
