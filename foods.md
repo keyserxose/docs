@@ -1,21 +1,42 @@
 # INDEX
 
-* [Breakfast](#Breakfast)
-  * [Oatmeal](#Oatmeal)
-  * [Pancakes](#Pancakes)
-* [Meal](#Meal)
-  * [Carnitas](#Carnitas)
-  * [Chili](#Chili)
-  * [Moussaka](#Moussaka)
-  * [Risotto](#Risotto)
-  * [Chicken Curry](#ChickenCurry)
-  * [Veggie Curry Rice](#VeggieCurryRice)
-  * [Fabada](#fabada)
-* [Spices](#Spices)
-* [Dessert](#Dessert)
-  * [Brownies](#Brownies)
-  * [Banana Blueberry Muffins](#BananaBlueberryMuffins)
-  * [Chocolate Cake](#ChocolateCake)
+- [INDEX](#index)
+- [Breakfast](#breakfast)
+	- [Oatmeal](#oatmeal)
+		- [Banana and PB](#banana-and-pb)
+		- [Apple \& Cinnamon](#apple--cinnamon)
+		- [Pancakes](#pancakes)
+- [Meal](#meal)
+		- [Carnitas](#carnitas)
+			- [Ingredients](#ingredients)
+			- [Adobo](#adobo)
+		- [Chili](#chili)
+	- [Prep](#prep)
+		- [Moussaka](#moussaka)
+		- [Ingredients](#ingredients-1)
+		- [Spices](#spices)
+		- [Prep](#prep-1)
+		- [Risotto](#risotto)
+		- [Prep](#prep-2)
+		- [ChickenCurry](#chickencurry)
+		- [Prep](#prep-3)
+		- [Cook](#cook)
+		- [VeggieCurryRice](#veggiecurryrice)
+		- [Sopa calabacín](#sopa-calabacín)
+		- [Fabada](#fabada)
+		- [Sopa de marisco](#sopa-de-marisco)
+		- [Cook](#cook-1)
+- [Spices](#spices-1)
+		- [Fajitas](#fajitas)
+- [Dessert](#dessert)
+		- [Brownies](#brownies)
+		- [Prep](#prep-4)
+		- [BananaBlueberryMuffins](#bananablueberrymuffins)
+		- [Prep](#prep-5)
+		- [ChocolateCake](#chocolatecake)
+			- [Cake](#cake)
+			- [Frosting](#frosting)
+			- [Buttermilk](#buttermilk)
 
 
 # Breakfast
@@ -56,10 +77,7 @@ For the oats, just add hot water or milk
 	* 1tbsp melted butter
 	* blueberries
 
-### Prep
-
 Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add the butter, add some butter to a pan and start making pancakes!
-
 
 # Meal
 
@@ -93,13 +111,9 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 	* Pepper
 
 
-## Prep
-
 Meat & Yellow onion: Cut the pork in cubes, dice the onion and the garlic
 Citrus: Squeeze the limes and oranges
 Red onion: cut the onion, place into a bowl and add soke in boiling water for 20 secs to remove som bitternes mix, cut the tomato
-
-## Cook
 
 Mix the spices into the pork, fry with some pork lard in the pressure cooker for 3 minutes, add the onion and garlic and fry for a few more minutes, add the citrus juice and the cinamon stick and a glass of water, cook for 45 minutes on the highest seeting, once done, filter out the extra liquid, and let the fat separate, use that fat + extra if needed to fry the carnitas before eating them
 
