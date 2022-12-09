@@ -13,18 +13,17 @@
 	- [Risotto](#risotto)
 	- [ChickenCurry](#chickencurry)
 	- [VeggieCurryRice](#veggiecurryrice)
+	- [Fajitas](#fajitas)
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
 	- [Sopa de marisco](#sopa-de-marisco)
-- [Spices](#spices)
-		- [Fajitas](#fajitas)
 - [Dessert](#dessert)
 	- [Brownies](#brownies)
 	- [BananaBlueberryMuffins](#bananablueberrymuffins)
 	- [ChocolateCake](#chocolatecake)
-			- [Cake](#cake)
-			- [Frosting](#frosting)
-			- [Buttermilk](#buttermilk)
+		- [Cake](#cake)
+		- [Frosting](#frosting)
+		- [Buttermilk](#buttermilk)
 
 
 # Breakfast
@@ -203,6 +202,20 @@ Seal the chicken on a pan until browned, add it to the pressure cooker with a bi
 
 Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
+## Fajitas
+
+	* 2 Bell Peppers
+	* Chicken
+    * Azucar
+	* Sal
+	* Cebolla
+	* Cayena
+	* Pimienta
+	* Ajo
+  	* Jengibre
+
+Cut the vegetables and the chicken, fry the chiken for 10 min, add the spice while still in the pan, remove chicken from pan, fry vegetables, once done, add chicken back to the mix, add the remaining spices
+
 
 ## Sopa calabacín
 
@@ -233,18 +246,6 @@ Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha
 	* Perejil
 
 Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
-
-# Spices
-
-### Fajitas
-	* Azucar
-	* Sal
-	* Cebolla
-	* Cayena
-	* Pimienta
-	* Ajo
-  	* Jengibre
-
 
 # Dessert
 
@@ -282,7 +283,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 
 ## ChocolateCake
 
-#### Cake
+### Cake
 
     * 113g butter
     * 28g chocolate polvo
@@ -297,7 +298,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
     * 56g melted chocolate
 
 
-#### Frosting
+### Frosting
 
 	* 200!?g glass sugar
 	* 2 tablespoons chocolate powder
@@ -306,7 +307,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 	* 85g melted chocolate
 	* 2 tablespoons buttermilk
 
-#### Buttermilk
+### Buttermilk
 
     * 1 cup of milk + 1 teaspoon lemon juice
 
