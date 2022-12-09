@@ -9,29 +9,19 @@
 - [Meal](#meal)
 	- [Carnitas](#carnitas)
 	- [Chili](#chili)
-		- [Prep](#prep)
 	- [Moussaka](#moussaka)
-		- [Ingredients](#ingredients)
-		- [Spices](#spices)
-		- [Prep](#prep-1)
-		- [Risotto](#risotto)
-		- [Prep](#prep-2)
-		- [ChickenCurry](#chickencurry)
-		- [Prep](#prep-3)
-		- [Cook](#cook)
-		- [VeggieCurryRice](#veggiecurryrice)
-		- [Sopa calabacín](#sopa-calabacín)
-		- [Fabada](#fabada)
-		- [Sopa de marisco](#sopa-de-marisco)
-		- [Cook](#cook-1)
-- [Spices](#spices-1)
+	- [Risotto](#risotto)
+	- [ChickenCurry](#chickencurry)
+	- [VeggieCurryRice](#veggiecurryrice)
+	- [Sopa calabacín](#sopa-calabacín)
+	- [Fabada](#fabada)
+	- [Sopa de marisco](#sopa-de-marisco)
+- [Spices](#spices)
 		- [Fajitas](#fajitas)
 - [Dessert](#dessert)
-		- [Brownies](#brownies)
-		- [Prep](#prep-4)
-		- [BananaBlueberryMuffins](#bananablueberrymuffins)
-		- [Prep](#prep-5)
-		- [ChocolateCake](#chocolatecake)
+	- [Brownies](#brownies)
+	- [BananaBlueberryMuffins](#bananablueberrymuffins)
+	- [ChocolateCake](#chocolatecake)
 			- [Cake](#cake)
 			- [Frosting](#frosting)
 			- [Buttermilk](#buttermilk)
@@ -135,14 +125,10 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* liquid smoke ?
 	* 1 bay leaf ?
 
-### Prep
-
 Cook the beans for 1 hour (this depends on the type of bean, shorten for red beans, increase for black beans, remove from the pot, fry the meat in oil, add the vegetables and cook for 10 min, add the chocolate, sugar, coffee, anchovies, vegemite, soy sauce abd the spice mix and cook for 5 min, add tomatoes beans and water, cover with a lid and cook for at least 3 hours
 
 
 ## Moussaka
-
-### Ingredients
 
 	* 2 Eggplants
 	* 500g minced meat
@@ -154,15 +140,10 @@ Cook the beans for 1 hour (this depends on the type of bean, shorten for red bea
 	* Granna Padano
 	* Flour
 	* 2 Eggs
-
-### Spices
-
 	* Oregano
 	* Cinnamon
 	* Black Pepper
 	* Nutmeg
-
-### Prep
 
 Eggplants: Peel and cut the eggplants, salt them and put them into a bowl for 30 minutes, then wash them and squeeze the water out, bake them for 20 min at 170º
 
@@ -174,7 +155,7 @@ Assemble: Layer of eggplant, layer of meat, layer of eggplant, layer of bechamel
 
 Cover with aluminum foil and bake for 1h
 
-### Risotto
+## Risotto
 
 	* Arborio Rice
 	* White Wine
@@ -184,12 +165,10 @@ Cover with aluminum foil and bake for 1h
 	* Mushrooms
 	* Any other stuff you want to put
 
-### Prep
-
 Sauté the onion, add the rest of ingredients in a logical order, add the rice, coock it for a couple of minutes, then add the broth(hot) one ladle at a time, once done it's done
 
 
-### ChickenCurry
+## ChickenCurry
 
 	* Chicken
 	* Fresh ginger
@@ -204,17 +183,14 @@ Sauté the onion, add the rest of ingredients in a logical order, add the rice, 
 	* Onion
 	* Capsicums
 
-### Prep
 	
 Spice mix: Mix Garam masala with cumin, paprika, salt, pepper
 Vegetables: Cut the onion, garlic and capsicums, peal and grate the ginger
 Chicken: Cut the chicken in cubes and rub the spice mix in
 
-### Cook
-
 Seal the chicken on a pan until browned, add it to the pressure cooker with a bit of oil, then use the same pan to fry the veggies, once those are done add them to the pressure cooker, add the tomato sauce, and ginger and cook on the highest setting for 25 min, turn the stove off and let the pressure cooker release all the vapor, once that's done you can turn the stove again on low in order to get rid of some of the liquid, once it's good, turn it off and wait 5-10 min to mix in the evaporated milk, eat it with some basmati rice
 
-### VeggieCurryRice
+## VeggieCurryRice
 
 	* Basmati Rice
 	* Peas
@@ -228,7 +204,7 @@ Seal the chicken on a pan until browned, add it to the pressure cooker with a bi
 Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
 
-### Sopa calabacín
+## Sopa calabacín
 
 	* Cebolla
 	* Puerro
@@ -236,7 +212,7 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 	* Aceite
 	* Zanahoria
 
-### Fabada
+## Fabada
 
     * Compango
     * Cebolla
@@ -246,7 +222,7 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
 Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha agua, cocer en olla a presión al máximo durante 15 min
 
-### Sopa de marisco
+## Sopa de marisco
 
 	* Rape entero
 	* Almejas
@@ -256,7 +232,6 @@ Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha
 	* Aceite
 	* Perejil
 
-### Cook
 Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
 
 # Spices
@@ -273,7 +248,7 @@ Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz
 
 # Dessert
 
-### Brownies
+## Brownies
 
 	* 150-200g butter
 	* 180-200g chocolate
@@ -286,12 +261,10 @@ Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz
 	* 20g cocoa powder
 	* vanilla
 
-### Prep
-
 Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170º for 20' + 20' with aluminum foil
 
 
-### BananaBlueberryMuffins
+## BananaBlueberryMuffins
 
 	* 2 mashed bananas (1cup)
 	* 1 Cup yogurt (queso fresco batido)
@@ -304,12 +277,10 @@ Mix wet ingridients, mix dry ingridients, combine and cook in 20x20 modl at 170�
 	* bit of salt
 	* blueberries
 
-### Prep
-
 Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melted butter and vanilla, mix it. Different bowl mix flour, baking soda and salt, combine dry ingredients with wet ingredients and stir until mixed, once done add the blueberries. Bake for 35-45 minutes
 
 
-### ChocolateCake
+## ChocolateCake
 
 #### Cake
 
