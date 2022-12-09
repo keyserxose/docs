@@ -21,7 +21,6 @@
 	- [Brownies](#brownies)
 	- [BananaBlueberryMuffins](#bananablueberrymuffins)
 	- [ChocolateCake](#chocolatecake)
-		- [Cake](#cake)
 
 
 # Breakfast
@@ -281,7 +280,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 
 ## ChocolateCake
 
-### Cake
+Cake
 
     * 113g butter
     * 28g chocolate polvo
