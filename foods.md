@@ -8,9 +8,9 @@
 	- [Pancakes](#pancakes)
 - [Meal](#meal)
 	- [Carnitas](#carnitas)
-		- [Chili](#chili)
-	- [Prep](#prep)
-		- [Moussaka](#moussaka)
+	- [Chili](#chili)
+		- [Prep](#prep)
+	- [Moussaka](#moussaka)
 		- [Ingredients](#ingredients)
 		- [Spices](#spices)
 		- [Prep](#prep-1)
@@ -111,7 +111,7 @@ Red onion: cut the onion, place into a bowl and add soke in boiling water for 20
 Mix the spices into the pork, fry with some pork lard in the pressure cooker for 3 minutes, add the onion and garlic and fry for a few more minutes, add the citrus juice and the cinamon stick and a glass of water, cook for 45 minutes on the highest seeting, once done, filter out the extra liquid, and let the fat separate, use that fat + extra if needed to fry the carnitas before eating them
 
 
-### Chili
+## Chili
 
 	* 1000g meat
 	* 2 Peppers
@@ -135,12 +135,12 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* liquid smoke ?
 	* 1 bay leaf ?
 
-## Prep
+### Prep
 
 Cook the beans for 1 hour (this depends on the type of bean, shorten for red beans, increase for black beans, remove from the pot, fry the meat in oil, add the vegetables and cook for 10 min, add the chocolate, sugar, coffee, anchovies, vegemite, soy sauce abd the spice mix and cook for 5 min, add tomatoes beans and water, cover with a lid and cook for at least 3 hours
 
 
-### Moussaka
+## Moussaka
 
 ### Ingredients
 
