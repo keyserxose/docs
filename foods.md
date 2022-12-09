@@ -119,7 +119,7 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* Chili flakes
 	* Chocolate
 	* Brown Sugar
-	* Coffee
+	* Coffee (ground coffee ?)
 	* Vegemite
 	* Anchovies
 	* Soy Sauce
