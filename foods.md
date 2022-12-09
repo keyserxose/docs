@@ -7,13 +7,11 @@
 		- [Apple \& Cinnamon](#apple--cinnamon)
 	- [Pancakes](#pancakes)
 - [Meal](#meal)
-		- [Carnitas](#carnitas)
-			- [Ingredients](#ingredients)
-			- [Adobo](#adobo)
+	- [Carnitas](#carnitas)
 		- [Chili](#chili)
 	- [Prep](#prep)
 		- [Moussaka](#moussaka)
-		- [Ingredients](#ingredients-1)
+		- [Ingredients](#ingredients)
 		- [Spices](#spices)
 		- [Prep](#prep-1)
 		- [Risotto](#risotto)
@@ -81,9 +79,7 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 
 # Meal
 
-### Carnitas
-
-#### Ingredients
+## Carnitas
 
 	* Lomo de cerdo
 	* 1 yellow onion
@@ -101,9 +97,6 @@ Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add
 	* Tomato
 	* Fresh cilantro
 	* Tortillas
-
-#### Adobo
-	
 	* Oregano(1/2tbsp)
 	* Paprika(1/2tsp)
 	* Cumin(1/2tbsp)
