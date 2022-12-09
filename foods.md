@@ -22,8 +22,6 @@
 	- [BananaBlueberryMuffins](#bananablueberrymuffins)
 	- [ChocolateCake](#chocolatecake)
 		- [Cake](#cake)
-		- [Frosting](#frosting)
-		- [Buttermilk](#buttermilk)
 
 
 # Breakfast
@@ -298,7 +296,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
     * 56g melted chocolate
 
 
-### Frosting
+Frosting
 
 	* 200!?g glass sugar
 	* 2 tablespoons chocolate powder
@@ -307,7 +305,7 @@ Pre-heat the oven to 175ºC, mash the bananas, add the yogurt, eggs, sugar, melt
 	* 85g melted chocolate
 	* 2 tablespoons buttermilk
 
-### Buttermilk
+Buttermilk
 
     * 1 cup of milk + 1 teaspoon lemon juice
 
