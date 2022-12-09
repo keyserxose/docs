@@ -112,11 +112,11 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* 1 Garlic
 	* Diced tomatoes
 	* Beans
-	* Chicken Stock / Meat Stock
-	* Paprika
+	* Chicken Stock / Meat Stock (Optional)
 	* Cayenne
 	* Black Pepper
 	* Cumin
+	* Chili flakes
 	* Chocolate
 	* Brown Sugar
 	* Coffee
@@ -124,10 +124,12 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* Anchovies
 	* Soy Sauce
 	* Oregano
+	* liquid smoke ?
+	* 1 bay leaf ?
 
 ## Prep
 
-Cook the beans for 2 hours, remove from the pot, fry the meat in oil, add the vegetables, once done add the stock, tomatoes and spices, cover with a lid and cook for 3 hours, at the end add the choccolate, sugar and coffee
+Cook the beans for 1 hour (this depends on the type of bean, shorten for red beans, increase for black beans, remove from the pot, fry the meat in oil, add the vegetables and cook for 10 min, add the chocolate, sugar, coffee, anchovies, vegemite, soy sauce abd the spice mix and cook for 5 min, add tomatoes beans and water, cover with a lid and cook for at least 3 hours
 
 
 ### Moussaka
