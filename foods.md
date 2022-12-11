@@ -170,9 +170,9 @@ Sauté the onion, add the rest of ingredients in a logical order, add the rice, 
 	* Fresh ginger
 	* Garlic
 	* 1.5 tbsp Garam masala
-	* 1/2 tsp Cumin
-	* 1/2 tsp Paprika
-	* 1/2 tsp Tumeric
+	* 1/2 tbsp Cumin
+	* 1/2 tbsp Cinnamon
+	* 1/2 tbsp Tumeric
 	* 1/2 tsp Salt
 	* Evaporated milk
 	* Pepper
