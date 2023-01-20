@@ -19,6 +19,7 @@
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
 	- [Sopa de marisco](#sopa-de-marisco)
+	- [Fried rice](#fried-rice)
 - [Dessert](#dessert)
 	- [Brownies](#brownies)
 	- [Banana Blueberry Muffins](#banana-blueberry-muffins)
@@ -254,6 +255,20 @@ Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha
 	* Perejil
 
 Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
+
+## Fried rice
+
+	* Chicken stock
+	* Basmati rice
+	* Onion
+	* Garlic
+	* Capsicum
+	* Carrots
+	* Eggs
+
+Fry the vegetables, add the rice and sauté for 5 min, add the stock and remove every few minutes, keep adding stock until cooked, if you run out of stock add boiling water.
+Once the rice is cooked fry some eggs and serve
+This dish is even more awesome if you let it sit in your fridge until nex day and then fry the rice, the fridge will remove some moisture and frying the rice will provide a crispy texture 
 
 # Dessert
 
