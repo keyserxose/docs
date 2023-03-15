@@ -9,8 +9,6 @@
 - [Meal](#meal)
 	- [Carnitas](#carnitas)
 	- [Chili](#chili)
-		- [Spices mix](#spices-mix)
-		- [Extras](#extras)
 	- [Moussaka](#moussaka)
 	- [Risotto](#risotto)
 	- [Chicken Curry](#chicken-curry)
@@ -20,6 +18,7 @@
 	- [Fabada](#fabada)
 	- [Sopa de marisco](#sopa-de-marisco)
 	- [Fried rice](#fried-rice)
+	- [No-Si? Goreng](#no-si-goreng)
 - [Dessert](#dessert)
 	- [Brownies](#brownies)
 	- [Banana Blueberry Muffins](#banana-blueberry-muffins)
@@ -112,7 +111,7 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
 	* Chicken Stock / Meat Stock (Optional)
 
 
-### Spices mix
+Spices mix
 
 	* Black Pepper
 	* Cumin
@@ -120,7 +119,7 @@ Mix the spices into the pork, fry with some pork lard in the pressure cooker for
     * Oregano
     * Coriander
 
-### Extras
+Extras
 
 	* Vegemite
 	* Anchovies
@@ -268,7 +267,24 @@ Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz
 
 Fry the vegetables, add the rice and sauté for 5 min, add the stock and remove every few minutes, keep adding stock until cooked, if you run out of stock add boiling water.
 Once the rice is cooked fry some eggs and serve
-This dish is even more awesome if you let it sit in your fridge until nex day and then fry the rice, the fridge will remove some moisture and frying the rice will provide a crispy texture 
+This dish is even more awesome if you let it sit in your fridge until nex day and then fry the rice, the fridge will remove some moisture and frying the rice will provide a crispy texture.
+
+## No-Si? Goreng
+
+	* Leftover rice (if it is still in the fridge, even better)
+	* Onion
+	* Carrot
+	* Garlic
+	* Cucumber
+	* Eggs
+	* Chicken
+	* Garlic powder
+	* Ginger powder
+	* Oil
+	* Soy Sauce
+
+Mix the oil with the soy sice, garlic powder and ginger, cut the chicken into slices and mix with the sauce in a bowl and let it soak for 30 min, dice the onion, carrot and garlic. Add some oil to a pan and once heated add the chicken, remove when fried and then fry the vegetables, once done add the chicken back into the pan and add the rice, fry for around 5 minutes at medium heat. Fry an egg on a separate pan and add to your dish, dice the cucumber and add to the dish.
+
 
 # Dessert
 
