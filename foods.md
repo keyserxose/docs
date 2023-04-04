@@ -17,6 +17,7 @@
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
 	- [Sopa de marisco](#sopa-de-marisco)
+	- [Huevos encapotados](#huevos-encapotados)
 	- [Fried rice](#fried-rice)
 	- [No-Si? Goreng](#no-si-goreng)
 - [Dessert](#dessert)
@@ -253,7 +254,15 @@ Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha
 	* Aceite
 	* Perejil
 
-Cocer el rape, sacarlo y deshacerlo, añadir el resto de ingredientes y el arroz al final
+Cocer el rape con el perejil, sacarlo y deshacerlo, por separado abrir las almejas, mezclar ambas aguas con el tomate, aceite y pimentón, añadir rape, almejas y gambas, añadir el arroz al final
+
+## Huevos encapotados
+
+	* Huevos
+	* Bechamel
+	* Pan rallado
+  
+Huevo frito, envuelto en bechamel, rebozado en pan rallado y huevo
 
 ## Fried rice
 
