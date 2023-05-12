@@ -16,6 +16,7 @@
 	- [Fajitas](#fajitas)
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
+	- [Lentils](#lentils)
 	- [Sopa de marisco](#sopa-de-marisco)
 	- [Huevos encapotados](#huevos-encapotados)
 	- [Fried rice](#fried-rice)
@@ -243,6 +244,18 @@ Cut the vegetables and the chicken, fry the chiken for 10 min, add the spice whi
     * Habas
 
 Sofreir la cebolla, ajo, compango durante 5 min, añadir habas, patatas, y mucha agua, cocer en olla a presión al máximo durante 15 min
+
+## Lentils
+
+	* Lentils
+	* Chorizo
+	* Jamón Serrano
+	* 3 Carrots
+	* 1 Onion
+	* 3 Garlics
+	* 2 Leeks
+
+Soak the lentils the day before, remove soaking water and clean the lentils with fresh water, peel and cut in big pieces the vegetables and add to the pot, dice the chorizo and jamón in small pieces and add it to the pot, cook for 10 minutes in the pressure cooker, onjce all the pressure has been naturally released, remove onion, garlic, leeks and carrots and blend it with a food processor, then add that back to the lentils.
 
 ## Sopa de marisco
 
