@@ -294,7 +294,7 @@ This dish is even more awesome if you let it sit in your fridge until nex day an
 ## No-Si? Goreng
 
 	* Leftover rice (if it is still in the fridge, even better)
-	* Onion
+	* Shallots
 	* Carrot
 	* Garlic
 	* Cucumber
