@@ -6,7 +6,7 @@
 		- [Banana and PB](#banana-and-pb)
 		- [Apple \& Cinnamon](#apple--cinnamon)
 	- [Pancakes](#pancakes)
-- [Meal](#meal)
+- [Lunch / Dinner](#lunch--dinner)
 	- [Carnitas](#carnitas)
 	- [Chili](#chili)
 	- [Moussaka](#moussaka)
@@ -67,7 +67,7 @@ For the oats, just add hot water or milk
 
 Mix your dry ingredients, add the egg, add the milk, and wisk it, once mixed add the butter, add some butter to a pan and start making pancakes!
 
-# Meal
+# Lunch / Dinner
 
 ## Carnitas
 
