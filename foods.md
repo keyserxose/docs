@@ -14,6 +14,7 @@
 	- [Chicken Curry](#chicken-curry)
 	- [Veggie Curry Rice](#veggie-curry-rice)
 	- [Fajitas](#fajitas)
+	- [Pollo a la plancha](#pollo-a-la-plancha)
 	- [Sopa calabacín](#sopa-calabacín)
 	- [Fabada](#fabada)
 	- [Lentils](#lentils)
@@ -226,6 +227,8 @@ Cook veggies and the jamón, cook the rice, fry an egg and mix all together
 
 Cut the vegetables and the chicken, fry the chiken for 10 min, add the spice while still in the pan, remove chicken from pan, fry vegetables, once done, add chicken back to the mix, add the remaining spices
 
+
+## Pollo a la plancha
 
 ## Sopa calabacín
 
