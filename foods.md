@@ -135,7 +135,7 @@ Extras
 	* 1 bay leaf ?
 
 
-Cook the beans for 1 hour (this depends on the type of bean, shorten for red beans, increase for black beans, remove from the pot, fry the meat in oil, add the vegetables and cook for 10 min, add the chocolate, sugar, coffee, anchovies, vegemite, soy sauce abd the spice mix and cook for 5 min, add tomatoes beans and water, cover with a lid and cook for at least 3 hours
+Cook the beans for 1 hour (this depends on the type of bean, shorten for red beans, increase for black beans), remove from the pot, fry the meat in oil, add the vegetables and cook for 10 min, add the chocolate, sugar, coffee, anchovies, vegemite, soy sauce abd the spice mix and cook for 5 min, add tomatoes beans and water, cover with a lid and cook for at least 3 hours
 
 
 ## Moussaka
@@ -232,6 +232,7 @@ Cut the vegetables and the chicken, fry the chiken for 10 min, add the spice whi
 
 ## Sopa calabacín
 
+	* Calabacín
 	* Cebolla
 	* Puerro
 	* Ajo
